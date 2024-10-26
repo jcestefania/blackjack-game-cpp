@@ -22,18 +22,18 @@ En este juego, el jugador compite contra un dealer. Cada jugador y el dealer rec
 1. Clona este repositorio:
  ```bash
    git clone https://github.com/tu_usuario/blackjack-mejorado.git
-```
+ ```
 2. Navega al directorio del proyecto:
  ```bash
    cd blackjack-mejorado
  ```
 3. Compila el código:
-   ```bash
+ ```bash
    g++ practica_3_blackjack_mejorado.cpp -o blackjack
-   ```
+ ```
 
 4. Ejecuta el juego:
-   ```bash
+ ```bash
    ./blackjack
-   ```
+ ```
    
