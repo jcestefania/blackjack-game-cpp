@@ -32,6 +32,4 @@ En este juego, el jugador compite contra un dealer. Cada jugador y el dealer rec
    g++ practica_3_blackjack_mejorado.cpp -o blackjack
    ```
  4. Ejecuta el juego:
-    ```bash
    ./blackjack
-   ```
